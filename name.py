@@ -12,7 +12,7 @@ full_name = f"{first_name} {last_name}"
 print(f"\n{full_name.title()}")
 print(f"\tHello, I am {full_name.title()}")
 message = f"\tThe name {last_name.title()} draws inspiration from Surah Al-Kahf!"
-print(message) 
+print(f"{message}") 
 
 # using strip() to remove whitespace
 favorite_language = " python "
