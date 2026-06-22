@@ -6,7 +6,7 @@ print(bicycles)
 print(bicycles[0])               # python also starts counting at 0
 print(bicycles[1])               # accessing the second element
 print(bicycles[1].title())       # title() method capitalization
-print(bicycles[-1])              # accessing the last element in the list
+print(bicycles[-1])              # accessing the last element in this list
 print(bicycles[-2])              # accessing the second last 
 print(bicycles)
 
