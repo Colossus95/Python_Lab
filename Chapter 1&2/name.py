@@ -1,4 +1,4 @@
-# Normal case, upper case, and lower case
+# Normal case, upper case, and lower case using
 # f means format, it allows us to insert variables into a string
 name = "ada lovelace"
 print(f"Normal case: {name.title()}")
